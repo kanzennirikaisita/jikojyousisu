@@ -4,7 +4,9 @@
 
 ## 遊び方
 
-`index.html` をダウンロードし、Webブラウザで開いてください。インストールは不要です。
+[公開ページで遊ぶ](https://kanzennirikaisita.github.io/jikojyousisu/)
+
+または `index.html` をダウンロードし、Webブラウザで開いてください。インストールは不要です。
 
 ## 注意
 
